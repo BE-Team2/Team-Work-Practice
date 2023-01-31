@@ -18,7 +18,7 @@
 [notion](https://half-nurse-df7.notion.site/s-Quick-Menu-8e5d758fbcad4acbb1f1e8e28e328d59)
 
 ## 임재억
-- 내용을 입력해주세요
+- 안녕하세요, Java/Spring를 공부하고 있는 임재억입니다.
 
 ## 전홍석
 - 내용을 입력해주세요
