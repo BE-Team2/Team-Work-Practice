@@ -13,7 +13,9 @@
 - 내용을 입력해주세요
 
 ## 윤소중
-- 내용을 입력해주세요
+- 나는야 짱멋진 백엔드 개발자(가 될거야)
+[github](https://www.github.com/devSojoong)
+[notion](https://half-nurse-df7.notion.site/s-Quick-Menu-8e5d758fbcad4acbb1f1e8e28e328d59)
 
 ## 임재억
 - 내용을 입력해주세요
