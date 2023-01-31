@@ -10,7 +10,7 @@
 - 내용을 입력해주세요
 
 ## 염류선
-- nickname:류써니
+- nickname: 류써니
 - Like: beer, beef
 - email: ryusunshine@gmail.com
 
